@@ -1,0 +1,13 @@
+Package: rmm
+Type: Package
+Title: Random Markov Models
+Version: 1.0
+Date: 2013-05-27
+Author: Bill Oxbury
+Maintainer: Bill Oxbury <wmoxbur@gchq>
+Description: Implements Barry Chen's RMM approach to categorical sequences.
+Suggests: MASS
+License: UKG
+NeedsCompilation: yes
+LazyData: yes
+Packaged: 2013-05-30 20:58:09 UTC; wmoxbury
