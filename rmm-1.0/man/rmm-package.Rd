@@ -6,7 +6,7 @@
 Random Markov Models
 }
 \description{
-Implementation of Barry Chen's RMM approach to scoring categorical sequences against a training sequence. Cheaper to train than HMMs, and counter-intuitively efective. An RMM is a randomised data summary rather than a true statistical model. 
+Implementation of RMM approach to scoring categorical sequences against a training sequence. Cheaper to train than HMMs, and counter-intuitively efective. An RMM is a randomised data summary rather than a true statistical model. 
 }
 \details{
 \tabular{ll}{
