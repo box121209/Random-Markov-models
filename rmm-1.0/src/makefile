@@ -1,5 +1,5 @@
 # Makefile for rmm v1.0
-# Bill Oxbury, May 2013
+# box121209, May 2013
 
 # Compiler:
 CC 	= gcc
