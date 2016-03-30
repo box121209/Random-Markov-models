@@ -19,12 +19,12 @@ License: \tab UKG\cr
 There are just two main functions: \code{\link{rmm.train}} and \code{\link{rmm.test}}. The input to both is an integer sequence (plus some other arguments), so the package also contains a utility \code{\link{text.convert}} used in the text examples. See the examples below.
 }
 \author{
-Bill Oxbury
+box121209
 
-Maintainer: Bill Oxbury <wmoxbur@gchq>
+Maintainer: box121209
 }
 \references{
-Barry Chen, SANAR 2012}
+}
 \keyword{ package }
 \seealso{
 }
